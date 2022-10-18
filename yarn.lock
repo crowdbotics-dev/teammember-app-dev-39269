@@ -1246,9 +1246,6 @@
 "@screens/order-details@file:./screens/order-details":
   version "1.0.0"
 
-"@screens/order-invoice@file:./screens/order-invoice":
-  version "1.0.0"
-
 "@screens/orders-in-progress@file:./screens/orders-in-progress":
   version "1.0.0"
 
