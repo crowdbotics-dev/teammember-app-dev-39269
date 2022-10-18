@@ -1243,9 +1243,6 @@
 "@screens/account-settings@file:./screens/account-settings":
   version "1.0.0"
 
-"@screens/cart@file:./screens/cart":
-  version "1.0.0"
-
 "@screens/order-checkout@file:./screens/order-checkout":
   version "1.0.0"
 
