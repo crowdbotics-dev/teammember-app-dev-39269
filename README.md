@@ -62,7 +62,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-orders-in-progress](screens/orders-in-progress)
 - [screen-account-settings](screens/account-settings)
 - [react-native-privacy-policy-webview](modules/privacy-policy-webview)
-- [react-native-terms-and-conditions-webview](modules/terms-and-conditions-webview)
 
 # Getting started: Frontend
 
