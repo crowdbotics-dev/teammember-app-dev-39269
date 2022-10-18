@@ -59,7 +59,6 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 
 This section will show any installed modules you add from the Storyboard Modules section.
 - [screen-order-details](screens/order-details)
-- [screen-orders-in-progress](screens/orders-in-progress)
 - [screen-account-settings](screens/account-settings)
 - [react-native-privacy-policy-webview](modules/privacy-policy-webview)
 

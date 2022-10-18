@@ -19,7 +19,6 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/account-settings": "file:./screens/account-settings/",
     "@screens/order-details": "file:./screens/order-details/",
-    "@screens/orders-in-progress": "file:./screens/orders-in-progress/",
     "axios": "^0.21.1",
     "prop-types": "15.8.1",
     "react": "17.0.1",
