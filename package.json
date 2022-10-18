@@ -21,7 +21,6 @@
     "@screens/account-settings": "file:./screens/account-settings/",
     "@screens/order-details": "file:./screens/order-details/",
     "@screens/order-invoice": "file:./screens/order-invoice/",
-    "@screens/order-success": "file:./screens/order-success/",
     "@screens/order-summary": "file:./screens/order-summary/",
     "@screens/orders-in-progress": "file:./screens/orders-in-progress/",
     "axios": "^0.21.1",
