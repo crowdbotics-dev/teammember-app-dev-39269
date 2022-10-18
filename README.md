@@ -67,7 +67,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-store-cart](screens/cart)
 - [screen-product-details](screens/product-details)
 - [screen-meal-product-listing](screens/meal-product-listing)
-- [react-native-splash](modules/splash)
 - [react-native-social-login](modules/social-login)
 - [screen-food-category](screens/food-category)
 - [react-native-onboarding](modules/onboarding)
