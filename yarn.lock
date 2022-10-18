@@ -1246,9 +1246,6 @@
 "@screens/cart@file:./screens/cart":
   version "1.0.0"
 
-"@screens/meal-product-listing@file:./screens/meal-product-listing":
-  version "1.0.0"
-
 "@screens/order-checkout@file:./screens/order-checkout":
   version "1.0.0"
 

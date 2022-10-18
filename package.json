@@ -20,7 +20,6 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/account-settings": "file:./screens/account-settings/",
     "@screens/cart": "file:./screens/cart/",
-    "@screens/meal-product-listing": "file:./screens/meal-product-listing/",
     "@screens/order-checkout": "file:./screens/order-checkout/",
     "@screens/order-details": "file:./screens/order-details/",
     "@screens/order-invoice": "file:./screens/order-invoice/",
